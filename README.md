@@ -6,8 +6,8 @@
 
 ###### Key goals include:
 
-•	Predicting order delivery time based on multiple input features.
-•	Improving delivery time predictions to optimize operational efficiency.
+•	Predicting order delivery time based on multiple input features.\
+•	Improving delivery time predictions to optimize operational efficiency.\
 •	Understanding the crucial factors influencing delivery time to enhance model accuracy.
 
 ##### Technologies Used
