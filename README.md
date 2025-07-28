@@ -18,9 +18,9 @@
 ##### Approch of Analysis
 
 1. Data Understanding
-2. Data Preparation
-     2.1 Data Loading and Initial Cleaning
-     2.2 Feature Engineering
+2. Data Preparation\
+     2.1 Data Loading and Initial Cleaning\
+     2.2 Feature Engineering\
      2.3 Outlier Treatment
 3. Exploratory Data Analysis (EDA)
    3.1 Feature Distributions
