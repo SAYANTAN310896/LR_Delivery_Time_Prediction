@@ -22,19 +22,19 @@
      2.1 Data Loading and Initial Cleaning\
      2.2 Feature Engineering\
      2.3 Outlier Treatment
-3. Exploratory Data Analysis (EDA)
-   3.1 Feature Distributions
-   3.2 Relationships with Target Variable
-   3.3 Numericals variables
-   3.4 Categorical variables
+3. Exploratory Data Analysis (EDA)\
+   3.1 Feature Distributions\
+   3.2 Relationships with Target Variable\
+   3.3 Numericals variables\
+   3.4 Categorical variables\
    3.5 Correlation Analysis
-4. Model Building
-   4.1 Feature Scaling
-   4.2 Linear Regression Model
+4. Model Building\
+   4.1 Feature Scaling\
+   4.2 Linear Regression Model\
    4.3 Recursive Feature Elimination (RFE)
-5. Results and Inference
-   5.1 Model Performance
-   5.2 Residual Analysis
+5. Results and Inference\
+   5.1 Model Performance\
+   5.2 Residual Analysis\
    5.3 Coefficient Analysis
    
    
